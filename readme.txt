@@ -11,4 +11,8 @@
 >>>>>>> fenzhi1
 xxx
 yyy
+<<<<<<< HEAD
 fix404
+=======
+working on it
+>>>>>>> dev
